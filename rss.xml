@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Way]]></title>
+        <description><![CDATA[The Way]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Dec 2015 03:28:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The Way is the pathless path. It is a matter of approach rather than distance or direction. It is finding (not just seeking) the point at which consciousness makes itself known. And since consciousness is always present right where you find yourself, it is the realisation that I Am That. This is another way of saying "Yes" and allowing The One to be that which is looking through your eyes.</p>]]></description>
+            <link>undefinedthe-way-is-the-pathless-path-it-is-a-matter-of-approach-rat/index.html</link>
+            <guid isPermaLink="false">273034d8-9c12-4596-85af-b3f7c4748fef</guid>
+            <pubDate>Sun, 13 Dec 2015 03:28:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
