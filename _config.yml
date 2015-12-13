@@ -1,6 +1,6 @@
 name: The Way
 favicon: null
-layout_spectrum: 0.32664415426552296
+layout_spectrum: 0.94495
 typography_spectrum: 0.6614669822156429
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#000000'
+    - '#afc4e1'
+    - '#77726e'
+    - '#4f5666'
   brandStrength: 0.8262489624321461
   lightness: 0.21722363261505961
-  saturation: 0.2879263758659363
+  saturation: 0.125
   rhythmicContrast: 0.18784420401789248
 purpose: []
