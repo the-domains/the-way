@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Way]]></title>
         <description><![CDATA[The Way]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-way/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Dec 2015 03:28:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Dec 2015 03:34:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-way/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.souldesign.co.nz/images/TheWayRock.png">]]></description>
+            <link>http://www.souldesign.co.nz/the_way</link>
+            <guid isPermaLink="false">b43def2e-7ebe-46d0-b150-60c15c39b6cd</guid>
+            <pubDate>Sun, 13 Dec 2015 03:33:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Way is the pathless path. It is a matter of approach rather than distance or direction. It is finding (not just seeking) the point at which consciousness makes itself known. And since consciousness is always present right where you find yourself, it is the realisation that I Am That. This is another way of saying "Yes" and allowing The One to be that which is looking through your eyes.</p>]]></description>
-            <link>undefinedthe-way-is-the-pathless-path-it-is-a-matter-of-approach-rat/index.html</link>
+            <link>https://thegrid.ai/the-way/the-way-is-the-pathless-path-it-is-a-matter-of-approach-rat/index.html</link>
             <guid isPermaLink="false">273034d8-9c12-4596-85af-b3f7c4748fef</guid>
             <pubDate>Sun, 13 Dec 2015 03:28:23 GMT</pubDate>
         </item>
